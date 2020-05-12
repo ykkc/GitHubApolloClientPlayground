@@ -10,7 +10,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        VStack {
+            Text("user name")
+            Text("email")
+            Image(uiImage: UIImage(systemName: "icloud.and.arrow.down")!)
+        }
     }
 }
 
