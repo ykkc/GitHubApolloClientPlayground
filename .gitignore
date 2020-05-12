@@ -17,5 +17,8 @@ DerivedData
 *.xcuserstate
 IDETemplateMacros.plist
 
+# CocoaPods
+Pods/
+
 # others
 .DS_Store
