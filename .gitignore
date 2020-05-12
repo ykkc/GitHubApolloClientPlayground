@@ -20,5 +20,8 @@ IDETemplateMacros.plist
 # CocoaPods
 Pods/
 
+# Apollo
+schema.json
+
 # others
 .DS_Store
